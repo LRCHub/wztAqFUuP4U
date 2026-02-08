@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Blessed（feat. Kaneee）",
+  "base_artist": "¥ellow Bucks",
+  "createdAt": "2026-02-08T13:19:07.407272Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'm So Blessed (feat. Big Sean, Wiz Khalifa, Ace Hood, T-Pain)",
+      "artist": "DJ Khaled",
+      "has_synced": true,
+      "path": "select/01_I'm_So_Blessed_(feat._Big_Sean,_Wiz_Khalifa,_Ace_Hood,_T-Pain)_DJ_Khaled.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blessed (feat. Kendrick Lamar)",
+      "artist": "ScHoolboy Q feat. Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/02_Blessed_(feat._Kendrick_Lamar)_ScHoolboy_Q_feat._Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blessed (feat. Kendrick Lamar)",
+      "artist": "Schoolboy Q",
+      "has_synced": true,
+      "path": "select/03_Blessed_(feat._Kendrick_Lamar)_Schoolboy_Q.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Extremely Blessed (Feat. The-Dream)",
+      "artist": "2 Chainz",
+      "has_synced": true,
+      "path": "select/04_Extremely_Blessed_(Feat._The-Dream)_2_Chainz.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blessed feat. Shermanology - (Avicii Mix)",
+      "artist": "Tom Hangs",
+      "has_synced": false,
+      "path": "select/05_Blessed_feat._Shermanology_-_(Avicii_Mix)_Tom_Hangs.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blessed (feat. Damian Marley)",
+      "artist": "WizKid feat. Damian Marley",
+      "has_synced": true,
+      "path": "select/06_Blessed_(feat._Damian_Marley)_WizKid_feat._Damian_Marley.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "BLESSED (feat. Capital Bra)",
+      "artist": "CRO feat. Capital Bra",
+      "has_synced": true,
+      "path": "select/07_BLESSED_(feat._Capital_Bra)_CRO_feat._Capital_Bra.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Extremely Blessed (Feat. The-Dream)",
+      "artist": "2 Chainz",
+      "has_synced": true,
+      "path": "select/08_Extremely_Blessed_(Feat._The-Dream)_2_Chainz.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blessed (Feat. Capi)",
+      "artist": "Cro",
+      "has_synced": true,
+      "path": "select/09_Blessed_(Feat._Capi)_Cro.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Blessed (feat. Damian Marley)",
+      "artist": "Wizkid/Damian Marley",
+      "has_synced": true,
+      "path": "select/10_Blessed_(feat._Damian_Marley)_Wizkid_Damian_Marley.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Blessed (feat. Damian Marley)",
+      "artist": "Wizkid",
+      "has_synced": true,
+      "path": "select/11_Blessed_(feat._Damian_Marley)_Wizkid.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Blessed (feat. Miraa May & Donae'o)",
+      "artist": "Juls",
+      "has_synced": true,
+      "path": "select/12_Blessed_(feat._Miraa_May_&_Donae'o)_Juls.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Highly Blessed (feat. Skrapz & Wretch 32)",
+      "artist": "Nines feat. Skrapz & Wretch 32",
+      "has_synced": true,
+      "path": "select/13_Highly_Blessed_(feat._Skrapz_&_Wretch_32)_Nines_feat._Skrapz_&_Wretch_32.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Highly Blessed (feat. Skrapz & Wretch 32)",
+      "artist": "Nines",
+      "has_synced": true,
+      "path": "select/14_Highly_Blessed_(feat._Skrapz_&_Wretch_32)_Nines.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "BLESSED (feat. Dizzee Rascal)",
+      "artist": "Ocean Wisdom feat. Dizzee Rascal",
+      "has_synced": true,
+      "path": "select/15_BLESSED_(feat._Dizzee_Rascal)_Ocean_Wisdom_feat._Dizzee_Rascal.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "BLESSED (feat. Dizzee Rascal)",
+      "artist": "Ocean Wisdom",
+      "has_synced": true,
+      "path": "select/16_BLESSED_(feat._Dizzee_Rascal)_Ocean_Wisdom.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Blessed (feat. Damian \"Jr. Gong\" Marley)",
+      "artist": "Wizkid",
+      "has_synced": true,
+      "path": "select/17_Blessed_(feat._Damian__Jr._Gong__Marley)_Wizkid.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Red, White, Blue and Blessed (feat. Walker Montgomery)",
+      "artist": "Colt Ford",
+      "has_synced": true,
+      "path": "select/18_Red,_White,_Blue_and_Blessed_(feat._Walker_Montgomery)_Colt_Ford.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I'm Blessed (feat. T.I.)",
+      "artist": "Charlie Wilson feat. T.I.",
+      "has_synced": true,
+      "path": "select/19_I'm_Blessed_(feat._T.I.)_Charlie_Wilson_feat._T.I..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blessed",
+      "artist": "¥ellow Bucks, Kaneee",
+      "has_synced": false,
+      "path": "select/pl_01_Blessed_¥ellow_Bucks,_Kaneee.txt"
+    }
+  ]
+}
